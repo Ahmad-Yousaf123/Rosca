@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\80eb535bd709fcf9949e723935eaf382\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\12dcef5fadfa7632cfa0566f9a56e6f0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\b42a7eeed956fdd5f60b4dfeb8279c22\AndroidManifest.xml:17:1-28:12
@@ -14,25 +14,25 @@ MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\aliah\
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\10aef403fb120da88a2cd4b282e2f249\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\01fd3d7ec6b97f3cc6b115a84759e704\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\aa14ef79aab093d001346162b536bc65\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:5:5-34:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\80eb535bd709fcf9949e723935eaf382\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\80eb535bd709fcf9949e723935eaf382\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\12dcef5fadfa7632cfa0566f9a56e6f0\AndroidManifest.xml:9:5-20
@@ -54,87 +54,89 @@ MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\aliah\.
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\aa14ef79aab093d001346162b536bc65\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\aliah\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\aa14ef79aab093d001346162b536bc65\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:6:9-30
 activity#ahmed.umer.rosca.MainActivity
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:17:27-74
 activity#ahmed.umer.rosca.Sign_in
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:19:9-45
-	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:19:19-42
-activity#ahmed.umer.rosca.sign_up
 ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:20:9-45
 	android:name
 		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:20:19-42
+activity#ahmed.umer.rosca.sign_up
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:21:9-45
+	android:name
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:21:19-42
 activity#ahmed.umer.rosca.MainMenu
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:21:9-46
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:22:9-46
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:21:19-43
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:22:19-43
 activity#ahmed.umer.rosca.activity_create_comm
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:22:9-58
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:23:9-58
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:22:19-55
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:23:19-55
 activity#ahmed.umer.rosca.confirmation
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:23:9-50
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:24:19-47
 activity#ahmed.umer.rosca.members
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:24:9-45
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:25:9-45
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:24:19-42
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:25:19-42
 activity#ahmed.umer.rosca.turns
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:25:9-43
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:26:9-43
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:25:19-40
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:26:19-40
 activity#ahmed.umer.rosca.committe_details
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:26:9-54
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:27:9-54
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:26:19-51
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:27:19-51
 activity#ahmed.umer.rosca.join_committee
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:27:9-52
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:28:9-52
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:27:19-49
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:28:19-49
 activity#ahmed.umer.rosca.send_money
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:28:9-48
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:29:9-48
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:28:19-45
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:29:19-45
 activity#ahmed.umer.rosca.agreement
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:29:9-47
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:30:9-47
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:29:19-44
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:30:19-44
 activity#ahmed.umer.rosca.select_committee
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:30:9-54
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:31:9-54
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:30:19-51
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:31:19-51
 activity#ahmed.umer.rosca.XYZ
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:31:9-41
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:32:9-41
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:31:19-38
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:32:19-38
 activity#ahmed.umer.rosca.pin_code
-ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:32:9-55
+ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:33:9-55
 	android:name
-		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:32:19-43
+		ADDED from D:\android code\Rosca\app\src\main\AndroidManifest.xml:33:19-43
 uses-sdk
 INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\android code\Rosca\app\src\main\AndroidManifest.xml
