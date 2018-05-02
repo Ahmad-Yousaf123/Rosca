@@ -25,6 +25,23 @@ public class confirmation extends AppCompatActivity {
         kay = (Button)findViewById(R.id.ok);
         canc = (Button)findViewById(R.id.no);
 
+
+        Intent i=getIntent();
+        int numberOfPeople=Integer.parseInt(i.getStringExtra("people"));
+        int amount=Integer.parseInt(i.getStringExtra("amount"));
+        int months= Integer.parseInt(i.getStringExtra("months"));
+
+
+        mount.setText(""+amount);
+        peop.setText(""+numberOfPeople);
+
+        amount=amount/numberOfPeople;
+
+        montly.setText(""+amount);
+
+
+
+
         kay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

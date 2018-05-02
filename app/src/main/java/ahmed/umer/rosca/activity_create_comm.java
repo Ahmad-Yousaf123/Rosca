@@ -40,8 +40,24 @@ public class activity_create_comm extends AppCompatActivity {
         nxt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),confirmation.class);
-                startActivity(i);
+                if(amount.getText().length()==0){
+                    amount.setError("Enter amount");
+                }
+                else if(mems.getText().length()==0){
+                    mems.setError("Enter number of member");
+                }
+                else if(months.getText().length()==0){
+                    months.setError("Enter months");
+                }else {
+                    String amnt = amount.getText().toString();
+                    String numberOfmembers = mems.getText().toString();
+                    String months = amount.getText().toString();
+                    Intent i = new Intent(getApplicationContext(), confirmation.class);
+                    i.putExtra("amount", amnt);
+                    i.putExtra("months", months);
+                    i.putExtra("people", numberOfmembers);
+                    startActivity(i);
+                }
             }
         });
 

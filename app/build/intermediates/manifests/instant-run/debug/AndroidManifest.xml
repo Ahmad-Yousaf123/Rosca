@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ahmed.umer.rosca"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:name="ahmed.umer.rosca.Rosca"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="ahmed.umer.rosca.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="ahmed.umer.rosca.Sign_in" />
+        <activity android:name="ahmed.umer.rosca.sign_up" />
+        <activity android:name="ahmed.umer.rosca.MainMenu" />
+        <activity android:name="ahmed.umer.rosca.activity_create_comm" />
+        <activity android:name="ahmed.umer.rosca.confirmation" />
+        <activity android:name="ahmed.umer.rosca.members" />
+        <activity android:name="ahmed.umer.rosca.turns" />
+        <activity android:name="ahmed.umer.rosca.committe_details" />
+        <activity android:name="ahmed.umer.rosca.join_committee" />
+        <activity android:name="ahmed.umer.rosca.send_money" />
+        <activity android:name="ahmed.umer.rosca.agreement" />
+        <activity android:name="ahmed.umer.rosca.select_committee" />
+        <activity android:name="ahmed.umer.rosca.XYZ" />
+        <activity android:name="ahmed.umer.rosca.pin_code" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="ahmed.umer.rosca.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
